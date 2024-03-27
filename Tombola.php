@@ -14,7 +14,7 @@
 <br><br><br>
 
 <h2>Tombola</h2>
-
+<br>
 <p>Les profits de cette tombola serviront à financer le tournoi.<br>
     Plus de 4000€ de lots sont à gagner (panneaux solaires plug and play, systèmes de désinfection d'air, kits énergie, etc.)<br>
     Merci à Place des Energies, Bora France et le Département du Nord pour leurs lots qu'ils nous ont donné gracieusement.<br>
